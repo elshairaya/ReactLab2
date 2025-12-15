@@ -1,0 +1,13 @@
+.home {
+  padding: 24px;
+}
+
+.home h1 {
+  margin-bottom: 16px;
+}
+
+.home img {
+  width: 300px;
+  display: block;
+  margin-bottom: 16px;
+}

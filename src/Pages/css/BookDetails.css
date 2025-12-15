@@ -1,0 +1,12 @@
+.book-details {
+  padding: 24px;
+}
+
+.book-details img {
+  width: 200px;
+  margin: 16px 0;
+}
+
+.book-details p {
+  line-height: 1.6;
+}
